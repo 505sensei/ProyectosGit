@@ -1,0 +1,14 @@
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.AssemblyInfoInputs.cache
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.AssemblyInfo.cs
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.csproj.CoreCompileInputs.cache
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\bin\Debug\net6.0\Guia3EntregarDomingo.exe
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\bin\Debug\net6.0\Guia3EntregarDomingo.deps.json
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\bin\Debug\net6.0\Guia3EntregarDomingo.runtimeconfig.json
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\bin\Debug\net6.0\Guia3EntregarDomingo.dll
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\bin\Debug\net6.0\Guia3EntregarDomingo.pdb
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.dll
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\refint\Guia3EntregarDomingo.dll
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.pdb
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\Guia3EntregarDomingo.genruntimeconfig.cache
+C:\Users\EngelsMz\source\repos\Guia3EntregarDomingo\Guia3EntregarDomingo\obj\Debug\net6.0\ref\Guia3EntregarDomingo.dll
