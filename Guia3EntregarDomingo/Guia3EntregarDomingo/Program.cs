@@ -43,7 +43,7 @@ namespace Guia3EntregarDomingo
 
                     Console.WriteLine("Su aumento sera del 10%");
                     salarioActual = 30000;
-                    nuevoAumento = (30000 + 30000) / 1 / 100;
+                    nuevoAumento = (30000 + 30000) / 1 / 10;
                     resultado = nuevoAumento + salarioActual;
 
                     Console.WriteLine($"Su nuevo aumento es de {nuevoAumento}, su salario es: {resultado}");
@@ -54,7 +54,7 @@ namespace Guia3EntregarDomingo
 
                     Console.WriteLine("Su aumento sera del 20%");
                     salarioActual = 35000;
-                    nuevoAumento = (35000 + 35000) / 1 / 200;
+                    nuevoAumento = (35000 + 35000) / 1 / 20;
                     resultado = nuevoAumento + salarioActual;
                     Console.WriteLine($"Su nuevo aumento es de: {nuevoAumento}, su salario es: {resultado}");
 
@@ -64,7 +64,7 @@ namespace Guia3EntregarDomingo
 
                     Console.WriteLine("Su aumento sera del 30%");
                     salarioActual = 32000;
-                    nuevoAumento = (32000 + 32000) / 1 / 300;
+                    nuevoAumento = (32000 + 32000) / 1 / 30;
                     resultado = nuevoAumento + salarioActual;
                     Console.WriteLine($"Su nuevo aumento es de: {nuevoAumento}, su salario es: {resultado}");
 
