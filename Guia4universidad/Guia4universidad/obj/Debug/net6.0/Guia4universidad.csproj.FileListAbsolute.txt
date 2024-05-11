@@ -1,0 +1,14 @@
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.AssemblyInfoInputs.cache
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.AssemblyInfo.cs
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.csproj.CoreCompileInputs.cache
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\bin\Debug\net6.0\Guia4universidad.exe
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\bin\Debug\net6.0\Guia4universidad.deps.json
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\bin\Debug\net6.0\Guia4universidad.runtimeconfig.json
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\bin\Debug\net6.0\Guia4universidad.dll
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\bin\Debug\net6.0\Guia4universidad.pdb
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.dll
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\refint\Guia4universidad.dll
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.pdb
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\Guia4universidad.genruntimeconfig.cache
+C:\Users\EngelsMz\source\repos\Guia4universidad\Guia4universidad\obj\Debug\net6.0\ref\Guia4universidad.dll
