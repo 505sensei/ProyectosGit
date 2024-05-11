@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Guia3EntregarDomingo",
+    "\\Guia4universidad",
+    "\\Guia4universidad\\Guia4universidad"
   ],
-  "SelectedNode": "\\PROGRAMA.txt",
+  "SelectedNode": "\\Guia4universidad\\Guia4universidad\\Alumno.cs",
   "PreviewInSolutionExplorer": false
 }

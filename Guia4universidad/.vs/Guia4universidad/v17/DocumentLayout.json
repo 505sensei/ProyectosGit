@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\",
+  "WorkspaceRootPath": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|c:\\users\\engelsmz\\source\\repos\\guia4universidad\\guia4universidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|solutionrelative:guia4universidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|c:\\users\\engelsmz\\source\\repos\\guia4universidad\\guia4universidad\\metodo_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|c:\\users\\engelsmz\\desktop\\proyectosgit\\guia4universidad\\guia4universidad\\metodo_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|solutionrelative:guia4universidad\\metodo_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|c:\\users\\engelsmz\\source\\repos\\guia4universidad\\guia4universidad\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|c:\\users\\engelsmz\\desktop\\proyectosgit\\guia4universidad\\guia4universidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|solutionrelative:guia4universidad\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|c:\\users\\engelsmz\\desktop\\proyectosgit\\guia4universidad\\guia4universidad\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4734D872-4686-4047-B732-7EB481B1905E}|Guia4universidad\\Guia4universidad.csproj|solutionrelative:guia4universidad\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Metodo_Main.cs",
-              "DocumentMoniker": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\Guia4universidad\\Metodo_Main.cs",
+              "DocumentMoniker": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\Guia4universidad\\Metodo_Main.cs",
               "RelativeDocumentMoniker": "Guia4universidad\\Metodo_Main.cs",
-              "ToolTip": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\Guia4universidad\\Metodo_Main.cs",
+              "ToolTip": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\Guia4universidad\\Metodo_Main.cs",
               "RelativeToolTip": "Guia4universidad\\Metodo_Main.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +39,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\Guia4universidad\\Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\Guia4universidad\\Alumno.cs",
               "RelativeDocumentMoniker": "Guia4universidad\\Alumno.cs",
-              "ToolTip": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\Guia4universidad\\Alumno.cs",
+              "ToolTip": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\Guia4universidad\\Alumno.cs",
               "RelativeToolTip": "Guia4universidad\\Alumno.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAmwCEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,14 +54,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Universidad.cs",
-              "DocumentMoniker": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\Guia4universidad\\Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\Guia4universidad\\Universidad.cs",
               "RelativeDocumentMoniker": "Guia4universidad\\Universidad.cs",
-              "ToolTip": "C:\\Users\\EngelsMz\\source\\repos\\Guia4universidad\\Guia4universidad\\Universidad.cs",
+              "ToolTip": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Guia4universidad\\Guia4universidad\\Universidad.cs",
               "RelativeToolTip": "Guia4universidad\\Universidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T23:05:29.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T23:05:29.55Z"
             }
           ]
         }
