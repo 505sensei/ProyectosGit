@@ -1,0 +1,15 @@
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\bin\Debug\net6.0\Automoviles.exe
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\bin\Debug\net6.0\Automoviles.deps.json
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\bin\Debug\net6.0\Automoviles.runtimeconfig.json
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\bin\Debug\net6.0\Automoviles.dll
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\bin\Debug\net6.0\Automoviles.pdb
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.AssemblyInfoInputs.cache
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.AssemblyInfo.cs
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.csproj.CoreCompileInputs.cache
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.sourcelink.json
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.dll
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\refint\Automoviles.dll
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.pdb
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\Automoviles.genruntimeconfig.cache
+C:\Users\EngelsMz\Desktop\ProyectosGit\Automoviles\Automoviles\obj\Debug\net6.0\ref\Automoviles.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Automoviles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811BECEA-8D44-486D-8FE9-BC2C26BC2383}|Automoviles\\Automoviles.csproj|c:\\users\\engelsmz\\desktop\\proyectosgit\\automoviles\\automoviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811BECEA-8D44-486D-8FE9-BC2C26BC2383}|Automoviles\\Automoviles.csproj|solutionrelative:automoviles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811BECEA-8D44-486D-8FE9-BC2C26BC2383}|Automoviles\\Automoviles.csproj|c:\\users\\engelsmz\\desktop\\proyectosgit\\automoviles\\automoviles\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811BECEA-8D44-486D-8FE9-BC2C26BC2383}|Automoviles\\Automoviles.csproj|solutionrelative:automoviles\\automovil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automovil.cs",
+              "DocumentMoniker": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Automoviles\\Automoviles\\Automovil.cs",
+              "RelativeDocumentMoniker": "Automoviles\\Automovil.cs",
+              "ToolTip": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Automoviles\\Automoviles\\Automovil.cs",
+              "RelativeToolTip": "Automoviles\\Automovil.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:00:49.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Automoviles\\Automoviles\\Program.cs",
+              "RelativeDocumentMoniker": "Automoviles\\Program.cs",
+              "ToolTip": "C:\\Users\\EngelsMz\\Desktop\\ProyectosGit\\Automoviles\\Automoviles\\Program.cs",
+              "RelativeToolTip": "Automoviles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:57:52.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
